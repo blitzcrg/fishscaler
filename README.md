@@ -1,3 +1,5 @@
+Very unlikely to be usable as written after sitting unmaintained for years. :D
+
 # fishscaler
 Python utility for bulk capture of pricing data from mtggoldfish.com using Requests and Beautifulsoup. Python 3 is probably required, but might run on 2.7 - I haven't tested it. 
 
